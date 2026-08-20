@@ -26,7 +26,6 @@ local developer = {
 
 ---
 
-```markdown
 ### 📊 GitHub Stats
 
 <div align="center">
