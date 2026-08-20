@@ -26,18 +26,6 @@ local developer = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![xizenn_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=xizenyt&show_icons=true&theme=dark&hide_border=true&title_color=ff0055&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xizenyt&layout=compact&theme=dark&hide_border=true&title_color=ff0055&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🛠️ Tech & Tools
